@@ -9,7 +9,7 @@ const HeaderDiv = styled.div`
 
 const Header = () => {
   return (
-    <HeaderDiv className="header">Header, here.</HeaderDiv>
+    <HeaderDiv className="header"></HeaderDiv>
   )
 }
 
