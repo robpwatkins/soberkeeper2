@@ -1,8 +1,9 @@
 .App {
   /* text-align: center; */
   /* background-color: #e7305b; */
-  background: rgb(226,151,156);
-  background: linear-gradient(0deg, rgba(226,151,156,1) 0%, rgba(252,70,107,1) 100%);
+  /* background: rgb(226,151,156); */
+  /* background: linear-gradient(0deg, rgba(226,151,156,1) 0%, rgba(252,70,107,1) 100%); */
+  background: linear-gradient(0deg, #F397AD 0%, rgba(252,70,107,1) 100%);
   min-height: 100vh;
   /* display: flex; */
   /* flex-direction: column; */
