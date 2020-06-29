@@ -1,8 +1,9 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
 import Router from './Router';
-import { BrowserRouter } from 'react-router-dom';
+import Tester from './components/Tester';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="App">
         <Header />
         <Router />
+        <Tester />
       </div>
     </BrowserRouter>
   );
